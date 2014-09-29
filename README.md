@@ -1,4 +1,4 @@
 ad-admin
 ========
 
-Administration de AgriDesk.org
+Administration d'AgriDesk.org
